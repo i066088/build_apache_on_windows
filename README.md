@@ -23,7 +23,7 @@ Before building apache, ensure to download and install these tools in the build 
 
 As apache has dependencies on some other third party software, make sure to compile these softwares beforehand.
 
-Before starting the building process, start a Visual Studio Command Prompt 2010 in a workspace (e.g. D:\P4\BUSMB_B1\SBO\9.2_DEV) and set environment variables as below:
+Before starting the building process, start a Visual Studio Command Prompt 2017 in a workspace and set environment variables as below:
 
 **[ For WIN 32 bit ]**
 
