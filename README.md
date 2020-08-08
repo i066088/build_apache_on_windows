@@ -29,7 +29,7 @@ Before starting the building process, start a Visual Studio Command Prompt 2010 
 
 ```
 set path=C:\Program Files (x86)\CMake\bin;C:\Perl\bin;%path%
-set workspace=D:\P4\BUSMB_B1\SBO\9.2_DEV
+set workspace=D:\my_workspace
 ```
 
 **[ For WIN 64 bit ]**
