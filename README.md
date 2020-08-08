@@ -36,7 +36,7 @@ set workspace=D:\my_workspace
 
 ```
 set path=C:\Program Files\CMake\bin;C:\Perl64\bin;%path%
-set workspace=D:\P4\BUSMB_B1\SBO\9.2_DEV
+set workspace=D:\my_workspace
 ```
 
 #### 1.2.1 Build OpenSSL
